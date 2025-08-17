@@ -12,25 +12,15 @@
   <a href="https://github.com/emirhan-dogan16">
     <img src="https://img.shields.io/github/followers/emirhan-dogan16?label=Follow&style=social" alt="GitHub Follow"/>
   </a>
-   &nbsp;
+    
   <!-- GitHub Stars -->
   <a href="https://github.com/emirhan-dogan16?tab=repositories">
     <img src="https://img.shields.io/github/stars/emirhan-dogan16?style=social" alt="GitHub Stars"/>
   </a>
-   &nbsp;
+    
   <!-- Visitor Badge -->
   <a href="https://github.com/emirhan-dogan16">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=emirhan-dogan16" alt="Visitors"/>
-  </a>
-   &nbsp;
-  <!-- GitHub Issues -->
-  <a href="https://github.com/emirhan-dogan16?tab=issues">
-    <img src="https://img.shields.io/github/issues/emirhan-dogan16?style=flat-square" alt="GitHub Issues"/>
-  </a>
-   &nbsp;
-  <!-- GitHub Forks -->
-  <a href="https://github.com/emirhan-dogan16?tab=forks">
-    <img src="https://img.shields.io/github/forks/emirhan-dogan16?style=flat-square" alt="GitHub Forks"/>
   </a>
 </div>
 
